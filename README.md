@@ -20,6 +20,9 @@ using the print function, display the distance between the two points.
 End the program.
 
 ## PROGRAM:
+### Program Developed by : HAREVASU S
+### Register No. : 212223230069
+### Program to find the distance two 2 points
 ```
 import math
 x_2=4
@@ -32,8 +35,8 @@ print(f'{e:.2f}')
 ```
 
 ## OUTPUT:
-![Screenshot 2024-03-13 112517](https://github.com/Harevasu/DISTANCE-BETWEEN-TWO-POINTS/assets/147985044/7716f355-156b-4399-a374-cc71a65824d1)
 
+![alt text](image.png)
 
 ## RESULT:
-Thus the distance of the two points is sucessfully executed and displayed.
+Thus the distance of the two points is sucessfully executed and displayed .
